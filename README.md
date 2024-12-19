@@ -1,2 +1,14 @@
 # SMG2_AudioTestObjects
- Syati modules that allow testing of Audio playback in SMG2
+
+> *Note: There are multiple Modules in this repository*
+
+### These Modules require the GLE API
+
+## SoundTestObj
+A sound effect player that plays sounds that are in a galaxy's UseResource file.
+
+## ???
+Coming Soon
+
+## ???
+Coming Soon
