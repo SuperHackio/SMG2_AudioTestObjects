@@ -7,8 +7,8 @@
 ## SoundTestObj
 A sound effect player that plays sounds that are in a galaxy's UseResource file.
 
-## ???
-Coming Soon
+## SongTestObj
+A music player that plays songs listed in a new BCSV inside a galaxy's UseResource file.
 
 ## ???
 Coming Soon
