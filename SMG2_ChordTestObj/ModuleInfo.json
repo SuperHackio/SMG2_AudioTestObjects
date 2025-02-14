@@ -1,0 +1,17 @@
+{
+  "Name": "TODO",
+  "Author": "Super Hackio",
+  "Description": "",
+  "ModuleDependancies": [ "GalaxyLevelEngine_API" ],
+  "ModuleData": [
+    {
+      "NameObjFactory": [
+        {
+          "Name": "ChordTestObj",
+          "Function": "createExtActor<ChordTestObj>",
+          "Include": "ChordTestObj.h"
+        }
+      ]
+    }
+  ]
+}
