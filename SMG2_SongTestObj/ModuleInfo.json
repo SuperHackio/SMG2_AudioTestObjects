@@ -1,8 +1,10 @@
 {
-  "Name": "TODO",
+  "Name": "SMG2_SongTestObj",
   "Author": "Super Hackio",
   "Description": "",
-  "ModuleDependancies": [ "GalaxyLevelEngine_API" ],
+  "RequiredAPIs": [ "GalaxyLevelEngine_API" ],
+  "SupportedGames": [ "SB4" ],
+
   "ModuleData": [
     {
       "NameObjFactory": [

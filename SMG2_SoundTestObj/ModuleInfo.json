@@ -2,7 +2,9 @@
   "Name": "SMG2_SoundTestObj",
   "Author": "Super Hackio",
   "Description": "A Sound Effect player that plays sounds registered in a galaxy's UseResource. Requires the GLE API.",
-  "ModuleDependancies": [ "GalaxyLevelEngine_API" ],
+  "RequiredAPIs": [ "GalaxyLevelEngine_API" ],
+  "SupportedGames": [ "SB4" ],
+
   "ModuleData": [
     {
       "NameObjFactory": [
